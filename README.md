@@ -1,5 +1,5 @@
 # HR Analytics Dashboard
-
+![HR Dashboard](https://github.com/deepikakohli0901-svg/HR-Analytics-Dashboard/blob/main/HR%20analystics%20dashboard%20image%20.png?raw=true)
 ## Project Overview
 
 This project is an interactive HR Analytics Dashboard developed using Power BI and Excel.
