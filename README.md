@@ -35,4 +35,4 @@ The dashboard provides insights into:
 ## Author
 
 Deepika Kohli
-Aspiring Data Analyst
+Aspiring BCA Graduate 
